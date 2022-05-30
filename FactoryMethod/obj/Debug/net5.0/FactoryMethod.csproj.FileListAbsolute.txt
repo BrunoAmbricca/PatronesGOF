@@ -1,0 +1,16 @@
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+D:\Escritorio\Quark\Etapa1\PatronesGOF\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
